@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
 	<img
 		width="300"
 		alt="4Geeks Academy"
